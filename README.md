@@ -1,9 +1,12 @@
 # Dummyapi.io Flutter Client
 
-An unofficial API client for dummyapi.io
+An unofficial API client for dummyapi.io - [dummyapi.io](https://dummyapi.io/)
 
-- [dummyapi.io](https://dummyapi.io/)
+# Preview
+| ![ezgif com-gif-maker](https://user-images.githubusercontent.com/5725704/187854130-28f79021-ad9c-4923-b852-4430122bc5dd.gif) |
+|:------: |
 
+# Screenshots
 | ![1](https://user-images.githubusercontent.com/5725704/187847235-392f279f-51eb-4785-8c1e-5c0adc008bf5.png) | ![2](https://user-images.githubusercontent.com/5725704/187847268-1fe90acf-c978-499e-b219-38215b8a3d1e.png) | ![3](https://user-images.githubusercontent.com/5725704/187847316-a19389ec-1b02-43cb-8982-553144b8d7de.png) | 
 |:-------------:|:-------------:|:-------------:|
 
